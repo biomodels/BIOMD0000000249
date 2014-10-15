@@ -1,3 +1,21 @@
+# BIOMD0000000249: restif06
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000249.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000249.git@20140916`
+
+
+# Model Notes
 
 
 This is the model described in the article:  
@@ -36,4 +54,5 @@ derived by equilibrating the system for one pathogen and then adding a
 starting concentration for the other.
 
 Originally created by libAntimony v1.3 (using libSBML 4.1.0-b1)
+
 
